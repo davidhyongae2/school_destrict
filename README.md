@@ -1,3 +1,5 @@
+### [Link to Google Slides](https://docs.google.com/presentation/d/10CvPK2qqDjlCGKCmx7MFF_FP-1T87Tl57Uyzh-Up120/edit#slide=id.g1316cf23dc4_3_75)
+
 ## Overview of the school district analysis
 
 School districts are involved with students' reading and math performance which are analyzed as a study for budget and spending regulation. 
@@ -25,9 +27,9 @@ School districts are involved with students' reading and math performance which 
 
 -How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-![Figure 3a](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3a.png) Math score of 9th,10th,11th,12th grade are excluded 70% and below.
+![Figure 3a](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3a.png). Math score of 9th,10th,11th,12th grade are excluded 70% and below.
 
-![Figure 3b](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3b.png) Reading scores of 9th,10th,11th,12th grade are excluded 70% and below. 
+![Figure 3b](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3b.png). Reading scores of 9th,10th,11th,12th grade are excluded 70% and below. 
 
 ![Figure 3c](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3c.png). Combination of the total summary of 9th only grade versus 10th only and 11th only, 12th only grade. In general the math and reading does not improve overall performance by isolating the 9th grade dataset. 
 
