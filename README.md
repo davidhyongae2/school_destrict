@@ -1,4 +1,4 @@
-### [Link to Google Slides]). (https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGqa2c2Dc/edit?usp=sharing) Fellowship and application.
+### [Link to Google Slides](https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGqa2c2Dc/edit?usp=sharing). Fellowship and application.
 
 ## Overview of the school district analysis
 
