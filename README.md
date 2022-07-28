@@ -37,7 +37,7 @@ Math performance does fluctuate based on which high school they are from even if
 
 Scores by school spending. <br>
 
-![Figure 5](https://github.com/davidhyongae2/school_destrict/blob/main/Figure5.png). <br> The Schools spend less than <$619 dollars per student in comparison to high cost >$620 dollar students in higher performing high schools. The difference is bigger on the higher cost per students range than the <$620 range costing students. Lastly, the <$619 dollar per student is where most of the cost is spent within this district. <br>
+The Schools spend less than <$619 dollars per student in comparison to high cost >$620 dollar students in higher performing high schools. The difference is bigger on the higher cost per students range than the <$620 range costing students. Lastly, the <$619 dollar per student is where most of the cost is spent within this district. <br>
 
 Scores by school size. <br>
 
