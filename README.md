@@ -42,11 +42,11 @@ Scores by school spending. <br>
 Scores by school size. <br>
 
 ![Figure 6](https://github.com/davidhyongae2/school_destrict/blob/main/Figure6.png).<br>
-The schools with <2000 students perform better in math and in reading in comparison to schools with >2001 students. Schools which are overpopulated with >2000 students perform far worse than size  <2000. Clearly, demonstrating the reading and math performance plateau at <2000. 
+The schools with <2000 students perform better in math and in reading in comparison to schools with >2001 students. Schools which are overpopulated with >2000 students perform far worse than size  <2000. Clearly, demonstrating the reading and math performance plateau at <2000. <br>
 
 Scores by school type. <br>
 
-![Figure 7](https://github.com/davidhyongae2/school_destrict/blob/main/Figure7.png. <br>
+![Figure 7](https://github.com/davidhyongae2/school_destrict/blob/main/Figure7.png). <br>
 For example, the Charter school is suggested to outperform the District school type for both math and reading. 
 
  
