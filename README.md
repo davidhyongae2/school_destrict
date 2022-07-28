@@ -16,14 +16,14 @@ School districts are involved with students' reading and math performance which 
 - Program language: Python 3.8
 
 ## Results 
--How is the district summary affected?
+How is the district summary affected?
 
 ![Figure 1](https://github.com/davidhyongae2/school_destrict/blob/main/Figure1.png). The charter school and district schools are sub grouped into different clusters. <br>
--How is the school summary affected?
+How is the school summary affected?
 
 ![Figure 2](https://github.com/davidhyongae2/school_destrict/blob/main/Figure2.png). Grades 10th, 11th and 12th are included while 9th is excluded from this summary. 
 
--How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ![Figure 3a](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3a.png). <br> Math score of 9th,10th,11th,12th grade are excluded 70% and below.
 
