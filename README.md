@@ -6,7 +6,7 @@ School districts are involved with students' reading and math performance which 
     
 
 1. PANDAS, numpy usage.
-2. Dataset read with PANDAS
+2. Dataset read with PANDAS.
 3. Jupyter notebook to display the result of PANDAS dataframe.
 4. Calculate the percentage of reading, math, and overall performance.
 
