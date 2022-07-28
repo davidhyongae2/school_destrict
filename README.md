@@ -33,8 +33,7 @@ School districts are involved with students' reading and math performance which 
 
 ![Figure 3c](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3c.png). Combination of the total summary of 9th only grade versus 10th only and 11th only, 12th only grade. In general the math and reading does not improve overall performance by isolating the 9th grade dataset. 
 
-How does replacing the ninth-grade scores affect the following:
-
+How does replacing the ninth-grade scores affect the following: <br>
 Math performance does fluctuate based on which high school they are from even if math is excluded from Thomas High School. For example, Cabrera High school, Griffin High school, Holden High school, and Pena High school, Shelton High School, Wilson High School,Wright High School outperform other high schools. While reading performance does not. 
 
 ![Figure 4](https://github.com/davidhyongae2/school_destrict/blob/main/Figure4.png).
