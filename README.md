@@ -31,18 +31,18 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 ![Figure 3c](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3c.png) <br> Combination of the total summary of 9th only grade versus 10th only and 11th only, 12th only grade. In general math and reading do not improve overall performance by isolating the 9th grade dataset. 
 
 How does replacing the ninth-grade scores affect the following: <br>
-Math performance does fluctuate based on which high school they are from even if math is excluded from Thomas High School. For example, Cabrera High School, Griffin High School, Holden High School, and Pena High School, Shelton High School, Wilson High School, Wright High School outperform other high schools. While reading performance does not. <br>
+Math performance does fluctuate based on which high school they are from. For example, Cabrera High School, Griffin High School, Holden High School, and Pena High School, Shelton High School, Wilson High School, Wright High School outperform other high schools. <br>
 
 ![Figure 4](https://github.com/davidhyongae2/school_destrict/blob/main/Figure4.png)<br>
 
 Scores by school spending. <br>
 
-The Schools spend less than <$619 dollars per student in comparison to high cost >$620 dollar students in higher performing high schools. The difference is bigger on the higher cost per student range than the <$620 range costing students. Lastly, the <$619 dollar per student is where most of the cost is spent within this district. <br>
+The Schools spend less than < 619 dollars per student in comparison to higher-performing high schools. < 619 dollars per student is where most of the cost is spent within this district. <br>
 
 Scores by school size. <br>
 
 ![Figure 6](https://github.com/davidhyongae2/school_destrict/blob/main/Figure6.png)<br>
-The schools with <2000 students perform better in math and reading in comparison to schools with >2001 students. Schools that are overpopulated with >2000 students perform far worse than those that size  <2000. Clearly, this demonstrates the reading and math performance plateau at <2000. <br>
+The schools with <2000 students perform better in math and reading in comparison to schools with >2001 students. Schools that are overpopulated perform far worse than those that size  <2000. This demonstrates the reading and math performance plateau at <2000. <br>
 
 Scores by school type. <br>
 
