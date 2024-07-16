@@ -51,4 +51,4 @@ For example, the Charter school is suggested to outperform the District school t
 
  
 ## Summary
-These results indicate the reduction of Thomas High School has no effect on the outcome of the reading performance while it has some affect on the math performance. Math is out performed in Cabrera High school, Griffin High school, Holden High school, and Pena High school, Shelton High School, Wilson High School,Wright High School than other high schools. While the reduction of Thomas High School for reading has a nominal effect on the percentage performance of reading on all grades in district or in charter schools.
+These results indicate that Thomas High School does not affect the outcome of the reading performance while it has some effect on the math performance. Math is outperformed in Cabrera High School, Griffin High School, Holden High School, Pena High School, Shelton High School, Wilson High School, and Wright High School. Thomas High School has a nominal effect on the percentage performance of reading.
