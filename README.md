@@ -1,7 +1,7 @@
 ### [Link to Google Slides](https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGqa2c2Dc/edit?usp=sharing).
 
 ## Overview of the school district analysis
-School districts are involved with students' reading and math performance which are analyzed as a study for budget and spending regulation. 
+School districts analyze students' reading and math performance for budget and spending regulation.
     
 
 1. PANDAS, numpy usage.
@@ -31,18 +31,18 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 ![Figure 3c](https://github.com/davidhyongae2/school_destrict/blob/main/Figure3c.png) <br> Combination of the total summary of 9th only grade versus 10th only and 11th only, 12th only grade. In general math and reading do not improve overall performance by isolating the 9th grade dataset. 
 
 How does replacing the ninth-grade scores affect the following: <br>
-Math performance does fluctuate based on which high school they are from. For example, Cabrera High School, Griffin High School, Holden High School, and Pena High School, Shelton High School, Wilson High School, Wright High School outperform other high schools. <br>
+Replacing the ninth-grade scores affects performance in math, which varies by high school. Cabrera, Griffin, Holden, Pena, Shelton, Wilson, and Wright High Schools consistently outperform others.
 
 ![Figure 4](https://github.com/davidhyongae2/school_destrict/blob/main/Figure4.png)<br>
 
 Scores by school spending. <br>
 
-The Schools spend less than < 619 dollars per student in comparison to higher-performing high schools. < 619 dollars per student is where most of the cost is spent within this district. <br>
+Schools in this district spend under $619 per student, which is lower than that of higher-performing high schools. <br>
 
 Scores by school size. <br>
 
 ![Figure 6](https://github.com/davidhyongae2/school_destrict/blob/main/Figure6.png)<br>
-The schools with <2000 students perform better in math and reading in comparison to schools with >2001 students. Schools that are overpopulated perform far worse than those that size  <2000. This demonstrates the reading and math performance plateau at <2000. <br>
+Schools with fewer than 2,000 students perform better in math and reading than those with more than 2,001 students, indicating that performance declines in overpopulated schools. This suggests a performance plateau at the 2,000-student mark. <br>
 
 Scores by school type. <br>
 
@@ -51,4 +51,4 @@ For example, the Charter school is suggested to outperform the District school t
 
  
 ## Summary
-These results indicate that Thomas High School does not affect the outcome of the reading performance while it has some effect on the math performance. Math is outperformed in Cabrera High School, Griffin High School, Holden High School, Pena High School, Shelton High School, Wilson High School, and Wright High School. Thomas High School has a nominal effect on the percentage performance of reading.
+The results indicate that Thomas High School does not significantly influence reading performance; however, it does have a measurable effect on math performance. Students at Cabrera, Griffin, Holden, Pena, Shelton, Wilson, and Wright High Schools consistently outperform their peers at Thomas in mathematics. Additionally, the impact of Thomas High School on reading performance appears to be minimal.
