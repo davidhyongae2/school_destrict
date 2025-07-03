@@ -1,4 +1,4 @@
-[Link to Google Slides](https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGDc/edit?usp=sharing).
+(https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGDc/edit?usp=sharing).
 
 ## Overview of the school district analysis
 School districts analyze students' reading and math performance for budget and spending regulation.
