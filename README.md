@@ -1,13 +1,11 @@
-(https://docs.google.com/presentation/d/1m06_9EaEdJI7jc7BQkQ79riS0W0V0QgkLuyGDc/edit?usp=sharing).
-
 ## Overview of the school district analysis
-School districts analyze students' reading and math performance for budget and spending regulation.
+School districts analyze students' reading and math performance for budget and spending regulations.
     
 
-1. PANDAS, numpy usage.
+1. PANDAS and NUMPY.
 2. Dataset read with PANDAS.
-3. Jupyter notebook to display the result of the PANDAS data frame.
-4. Calculate the percentage of reading, math, and overall performance.
+3. Jupyter notebook to display results of PANDAS.
+4. Calculating reading, math, and overall performance.
 
 
 ## Resources
